@@ -1,0 +1,182 @@
+
+~
+java:S1104"aMake MIN_INSTANT_KILL_PROB a static final constant or non-public and provide accessors if needed.(À«Ëó8áƒñ´â1
+~
+java:S1104"aMake MAX_INSTANT_KILL_PROB a static final constant or non-public and provide accessors if needed.(À«Ëó8áƒñ´â1
+„
+java:S1104"gMake MIN_BLUNT_INSTANT_KILL_PROB a static final constant or non-public and provide accessors if needed.(ˆ÷„ó8áƒñ´â1
+„
+java:S1104"gMake MAX_BLUNT_INSTANT_KILL_PROB a static final constant or non-public and provide accessors if needed.(ˆ÷„ó8áƒñ´â1
+{
+java:S1104"^Make MIN_BLUNT_HIT_PROB a static final constant or non-public and provide accessors if needed.(¾€¨8áƒñ´â1
+{
+java:S1104"^Make MAX_BLUNT_HIT_PROB a static final constant or non-public and provide accessors if needed.(¾€¨8áƒñ´â1
+|
+java:S1104"ZMake START_NUM_DAYS a static final constant or non-public and provide accessors if needed.(ıóõ³ûÿÿÿÿ8áƒñ´â1
+|
+java:S1104"ZMake START_NUM_FOOD a static final constant or non-public and provide accessors if needed.(ıóõ³ûÿÿÿÿ8áƒñ´â1
+~
+java:S1104"\Make MIN_GUN_HIT_PROB a static final constant or non-public and provide accessors if needed.(ß¥ñ·şÿÿÿÿ8áƒñ´â1
+~
+java:S1104"\Make MAX_GUN_HIT_PROB a static final constant or non-public and provide accessors if needed.(ß¥ñ·şÿÿÿÿ8áƒñ´â1
+|
+java:S1104"_Make MIN_ZOMBIE_HIT_PROB a static final constant or non-public and provide accessors if needed.(µà˜à8áƒñ´â1
+|
+java:S1104"_Make MAX_ZOMBIE_HIT_PROB a static final constant or non-public and provide accessors if needed.(µà˜à8áƒñ´â1
+y
+java:S1104	"WMake MIN_ZOMBIES a static final constant or non-public and provide accessors if needed.(ñØ®‘øÿÿÿÿ8áƒñ´â1
+y
+java:S1104	"WMake MAX_ZOMBIES a static final constant or non-public and provide accessors if needed.(ñØ®‘øÿÿÿÿ8áƒñ´â1
+x
+java:S1104
+"VMake MIN_PEOPLE a static final constant or non-public and provide accessors if needed.(’å±¡üÿÿÿÿ8áƒñ´â1
+x
+java:S1104
+"VMake MAX_PEOPLE a static final constant or non-public and provide accessors if needed.(’å±¡üÿÿÿÿ8âƒñ´â1
+v
+java:S1104"TMake MIN_FOOD a static final constant or non-public and provide accessors if needed.(ÙÛœÒıÿÿÿÿ8âƒñ´â1
+v
+java:S1104"TMake MAX_FOOD a static final constant or non-public and provide accessors if needed.(ÙÛœÒıÿÿÿÿ8âƒñ´â1
+z
+java:S1104"XMake MIN_GUN_AMMO a static final constant or non-public and provide accessors if needed.(‹™ô¨üÿÿÿÿ8âƒñ´â1
+z
+java:S1104"XMake MAX_GUN_AMMO a static final constant or non-public and provide accessors if needed.(‹™ô¨üÿÿÿÿ8âƒñ´â1
+x
+java:S1104"VMake MIN_HEALTH a static final constant or non-public and provide accessors if needed.(Æ†¹¥üÿÿÿÿ8âƒñ´â1
+x
+java:S1104"VMake MAX_HEALTH a static final constant or non-public and provide accessors if needed.(Æ†¹¥üÿÿÿÿ8âƒñ´â1
+u
+java:S1104"SMake zombies a static final constant or non-public and provide accessors if needed.(ä³çÎùÿÿÿÿ8âƒñ´â1
+v
+java:S1104"TMake MIN_DAYS a static final constant or non-public and provide accessors if needed.(úÚ÷úÿÿÿÿ8âƒñ´â1
+v
+java:S1104"TMake MAX_DAYS a static final constant or non-public and provide accessors if needed.(úÚ÷úÿÿÿÿ8âƒñ´â1
+X
+java:S1444";Make this "public static MIN_INSTANT_KILL_PROB" field final(À«Ëó8âƒñ´â1
+X
+java:S1444";Make this "public static MAX_INSTANT_KILL_PROB" field final(À«Ëó8âƒñ´â1
+^
+java:S1444"AMake this "public static MIN_BLUNT_INSTANT_KILL_PROB" field final(ˆ÷„ó8âƒñ´â1
+^
+java:S1444"AMake this "public static MAX_BLUNT_INSTANT_KILL_PROB" field final(ˆ÷„ó8âƒñ´â1
+U
+java:S1444"8Make this "public static MIN_BLUNT_HIT_PROB" field final(¾€¨8âƒñ´â1
+U
+java:S1444"8Make this "public static MAX_BLUNT_HIT_PROB" field final(¾€¨8âƒñ´â1
+V
+java:S1444"4Make this "public static START_NUM_DAYS" field final(ıóõ³ûÿÿÿÿ8âƒñ´â1
+V
+java:S1444"4Make this "public static START_NUM_FOOD" field final(ıóõ³ûÿÿÿÿ8âƒñ´â1
+X
+java:S1444"6Make this "public static MIN_GUN_HIT_PROB" field final(ß¥ñ·şÿÿÿÿ8âƒñ´â1
+X
+java:S1444"6Make this "public static MAX_GUN_HIT_PROB" field final(ß¥ñ·şÿÿÿÿ8âƒñ´â1
+V
+java:S1444"9Make this "public static MIN_ZOMBIE_HIT_PROB" field final(µà˜à8âƒñ´â1
+V
+java:S1444"9Make this "public static MAX_ZOMBIE_HIT_PROB" field final(µà˜à8âƒñ´â1
+S
+java:S1444	"1Make this "public static MIN_ZOMBIES" field final(ñØ®‘øÿÿÿÿ8âƒñ´â1
+S
+java:S1444	"1Make this "public static MAX_ZOMBIES" field final(ñØ®‘øÿÿÿÿ8âƒñ´â1
+R
+java:S1444
+"0Make this "public static MIN_PEOPLE" field final(’å±¡üÿÿÿÿ8âƒñ´â1
+R
+java:S1444
+"0Make this "public static MAX_PEOPLE" field final(’å±¡üÿÿÿÿ8âƒñ´â1
+P
+java:S1444".Make this "public static MIN_FOOD" field final(ÙÛœÒıÿÿÿÿ8âƒñ´â1
+P
+java:S1444".Make this "public static MAX_FOOD" field final(ÙÛœÒıÿÿÿÿ8âƒñ´â1
+T
+java:S1444"2Make this "public static MIN_GUN_AMMO" field final(‹™ô¨üÿÿÿÿ8âƒñ´â1
+T
+java:S1444"2Make this "public static MAX_GUN_AMMO" field final(‹™ô¨üÿÿÿÿ8âƒñ´â1
+R
+java:S1444"0Make this "public static MIN_HEALTH" field final(Æ†¹¥üÿÿÿÿ8âƒñ´â1
+R
+java:S1444"0Make this "public static MAX_HEALTH" field final(Æ†¹¥üÿÿÿÿ8âƒñ´â1
+O
+java:S1444"-Make this "public static zombies" field final(ä³çÎùÿÿÿÿ8âƒñ´â1
+P
+java:S1444".Make this "public static MIN_DAYS" field final(úÚ÷úÿÿÿÿ8âƒñ´â1
+P
+java:S1444".Make this "public static MAX_DAYS" field final(úÚ÷úÿÿÿÿ8âƒñ´â1
+}
+java:S3008"`Rename this field "MIN_INSTANT_KILL_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«Ëó8åƒñ´â1
+}
+java:S3008"`Rename this field "MAX_INSTANT_KILL_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«Ëó8åƒñ´â1
+ƒ
+java:S3008"fRename this field "MIN_BLUNT_INSTANT_KILL_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ÷„ó8åƒñ´â1
+ƒ
+java:S3008"fRename this field "MAX_BLUNT_INSTANT_KILL_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ÷„ó8åƒñ´â1
+z
+java:S3008"]Rename this field "MIN_BLUNT_HIT_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾€¨8åƒñ´â1
+z
+java:S3008"]Rename this field "MAX_BLUNT_HIT_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾€¨8æƒñ´â1
+{
+java:S3008"YRename this field "START_NUM_DAYS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıóõ³ûÿÿÿÿ8æƒñ´â1
+{
+java:S3008"YRename this field "START_NUM_FOOD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıóõ³ûÿÿÿÿ8æƒñ´â1
+}
+java:S3008"[Rename this field "MIN_GUN_HIT_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¥ñ·şÿÿÿÿ8æƒñ´â1
+}
+java:S3008"[Rename this field "MAX_GUN_HIT_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¥ñ·şÿÿÿÿ8æƒñ´â1
+{
+java:S3008"^Rename this field "MIN_ZOMBIE_HIT_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µà˜à8æƒñ´â1
+{
+java:S3008"^Rename this field "MAX_ZOMBIE_HIT_PROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µà˜à8æƒñ´â1
+x
+java:S3008	"VRename this field "MIN_ZOMBIES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñØ®‘øÿÿÿÿ8æƒñ´â1
+x
+java:S3008	"VRename this field "MAX_ZOMBIES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñØ®‘øÿÿÿÿ8æƒñ´â1
+w
+java:S3008
+"URename this field "MIN_PEOPLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’å±¡üÿÿÿÿ8æƒñ´â1
+w
+java:S3008
+"URename this field "MAX_PEOPLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’å±¡üÿÿÿÿ8æƒñ´â1
+u
+java:S3008"SRename this field "MIN_FOOD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÛœÒıÿÿÿÿ8æƒñ´â1
+u
+java:S3008"SRename this field "MAX_FOOD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÛœÒıÿÿÿÿ8æƒñ´â1
+y
+java:S3008"WRename this field "MIN_GUN_AMMO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹™ô¨üÿÿÿÿ8æƒñ´â1
+y
+java:S3008"WRename this field "MAX_GUN_AMMO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹™ô¨üÿÿÿÿ8æƒñ´â1
+w
+java:S3008"URename this field "MIN_HEALTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ†¹¥üÿÿÿÿ8æƒñ´â1
+w
+java:S3008"URename this field "MAX_HEALTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ†¹¥üÿÿÿÿ8æƒñ´â1
+u
+java:S3008"SRename this field "MIN_DAYS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÚ÷úÿÿÿÿ8æƒñ´â1
+u
+java:S3008"SRename this field "MAX_DAYS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÚ÷úÿÿÿÿ8æƒñ´â1
+P
+java:S1659"3Declare "MAX_INSTANT_KILL_PROB" on a separate line.(À«Ëó8èƒñ´â1
+V
+java:S1659"9Declare "MAX_BLUNT_INSTANT_KILL_PROB" on a separate line.(ˆ÷„ó8èƒñ´â1
+M
+java:S1659"0Declare "MAX_BLUNT_HIT_PROB" on a separate line.(¾€¨8èƒñ´â1
+N
+java:S1659",Declare "START_NUM_FOOD" on a separate line.(ıóõ³ûÿÿÿÿ8èƒñ´â1
+P
+java:S1659".Declare "MAX_GUN_HIT_PROB" on a separate line.(ß¥ñ·şÿÿÿÿ8èƒñ´â1
+N
+java:S1659"1Declare "MAX_ZOMBIE_HIT_PROB" on a separate line.(µà˜à8èƒñ´â1
+K
+java:S1659	")Declare "MAX_ZOMBIES" on a separate line.(ñØ®‘øÿÿÿÿ8èƒñ´â1
+J
+java:S1659
+"(Declare "MAX_PEOPLE" on a separate line.(’å±¡üÿÿÿÿ8èƒñ´â1
+H
+java:S1659"&Declare "MAX_FOOD" on a separate line.(ÙÛœÒıÿÿÿÿ8èƒñ´â1
+L
+java:S1659"*Declare "MAX_GUN_AMMO" on a separate line.(‹™ô¨üÿÿÿÿ8èƒñ´â1
+J
+java:S1659"(Declare "MAX_HEALTH" on a separate line.(Æ†¹¥üÿÿÿÿ8èƒñ´â1
+H
+java:S1659"&Declare "MAX_DAYS" on a separate line.(úÚ÷úÿÿÿÿ8èƒñ´â1
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ü¶…Ø8îƒñ´â1

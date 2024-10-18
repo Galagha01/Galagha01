@@ -1,0 +1,36 @@
+
+K
+java:S1121|".Extract the assignment out of this expression.(¼œÒñ8¨“Ì´â1
+t
+java:S1104"WMake startHealth a static final constant or non-public and provide accessors if needed.(µ†‘Ğ8¨“Ì´â1
+y
+java:S1104"WMake startPeople a static final constant or non-public and provide accessors if needed.( Ïè™ÿÿÿÿÿ8¨“Ì´â1
+r
+java:S1104"UMake startFood a static final constant or non-public and provide accessors if needed.(‰Öİí8¨“Ì´â1
+z
+java:S1104"XMake startZombies a static final constant or non-public and provide accessors if needed.(£ŠÀşÿÿÿÿ8¨“Ì´â1
+w
+java:S1104"UMake startAmmo a static final constant or non-public and provide accessors if needed.(‰ ›Äıÿÿÿÿ8©“Ì´â1
+u
+java:S1104"SMake isAlive a static final constant or non-public and provide accessors if needed.(âÂæúÿÿÿÿ8©“Ì´â1
+O
+java:S1444"-Make this "public static isAlive" field final(âÂæúÿÿÿÿ8©“Ì´â1
+‡
+java:S4165"eRemove this useless assignment; "isAlive" already holds the assigned value along all execution paths.(‹¦Ùÿùÿÿÿÿ8±“Ì´â1
+F
+java:S3010"$Remove this assignment of "isAlive".(‹¦Ùÿùÿÿÿÿ8µ“Ì´â1
+
+java:S1172
+"mRemove these unused method parameters "startPeople", "startHealth", "startFood", "startAmmo", "startZombies".(Ê×çïÿÿÿÿÿ8µ“Ì´â1
+W
+java:S2209"5Change this instance-reference to a static reference.(‹¦Ùÿùÿÿÿÿ8·“Ì´â1
+X
+java:S2696Z"6Make the enclosing method "static" or remove this set.(ñÀÖÜùÿÿÿÿ8½“Ì´â1
+h
+java:S1764‘"KCorrect one of the identical sub-expressions on both sides of operator "&&"(¬ò­P8À“Ì´â1
+i
+java:S1764Ÿ"KCorrect one of the identical sub-expressions on both sides of operator "&&"(Ã¡‰Ê8À“Ì´â1
+i
+java:S1764Ÿ"KCorrect one of the identical sub-expressions on both sides of operator "&&"(Ã¡‰Ê8Á“Ì´â1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(‹¦Ùÿùÿÿÿÿ8Á“Ì´â1

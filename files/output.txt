@@ -1,0 +1,937 @@
+Day 11: Fresh wave of zombies! 13 have arrived.
+Food remaining after feeding: 6
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 372
+People left: 28
+Days left: 9
+-------------------------------------------------------
+Day 10: Fresh wave of zombies! 14 have arrived.
+Food remaining after feeding: 295
+Battle in progress... Zombies left: 14
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 14
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 13
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 62
+People left: 44
+Days left: 8
+-------------------------------------------------------
+Day 9: Fresh wave of zombies! 14 have arrived.
+Food remaining after feeding: 29
+Battle in progress... Zombies left: 14
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 13
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 689
+People left: 55
+Days left: 7
+-------------------------------------------------------
+Day 8: Fresh wave of zombies! 14 have arrived.
+Food remaining after feeding: 307
+Battle in progress... Zombies left: 13
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 710
+People left: 54
+Days left: 6
+-------------------------------------------------------
+Day 7: Fresh wave of zombies! 10 have arrived.
+Food remaining after feeding: 49
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 733
+People left: 68
+Days left: 5
+-------------------------------------------------------
+Day 6: Fresh wave of zombies! 11 have arrived.
+Food remaining after feeding: 62
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 905
+People left: 71
+Days left: 4
+-------------------------------------------------------
+Day 5: Fresh wave of zombies! 15 have arrived.
+Food remaining after feeding: 882
+Battle in progress... Zombies left: 14
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 14
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 14
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 13
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 882
+People left: 72
+Days left: 3
+-------------------------------------------------------
+Day 4: Fresh wave of zombies! 10 have arrived.
+Food remaining after feeding: 672
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 1061
+People left: 92
+Days left: 2
+-------------------------------------------------------
+Day 3: Fresh wave of zombies! 12 have arrived.
+Food remaining after feeding: 459
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 163
+People left: 98
+Days left: 1
+-------------------------------------------------------
+Day 2: Fresh wave of zombies! 13 have arrived.
+Food remaining after feeding: 24
+Battle in progress... Zombies left: 12
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 11
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 10
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 9
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 8
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 7
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 6
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 5
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 4
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 3
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 2
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 1
+Survivors found: 0
+Food found: 0
+Battle in progress... Zombies left: 0
+Survivors found: 0
+Food found: 0
+Food remaining: 1106
+People left: 101
+Days left: 0
+-------------------------------------------------------
+Congratulations! You survived the apocalypse! Some brave survivors remain.
