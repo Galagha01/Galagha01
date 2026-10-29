@@ -1,32 +1,27 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate Data Science Student</h3>
+# Hi, I'm Gabriel Alagha
 
+Data Science undergraduate at Metropolitan State University, Saint Paul, Minnesota. I build data workflows, automated spreadsheets, and scripting pipelines, and I am building Apex Data Operations Ltd, a digital operations company for retail merchants in Nigeria.
 
+## What I build
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galagha01" alt="galagha01" /></a> </p>
+- **DataPulse B2B** - Automated lead generation and data pipeline in Python, with GitHub Actions. Enrichment is rule-based in practice.
+- **Apex Shop App** - Standalone web app for shop sales tracking, with separate owner and manager views. Owner sees only their own shop, manager sees all shops separately.
+- **Apex Data Operations Ltd** - Digital operations services for Nigerian retail merchants: daily multi-channel reconciliation, restock alerts when a shop shares stock counts, and a weekly profit snapshot over WhatsApp. First vertical: phone and gadget shops.
+- **Bastion Clash** - Browser-based real-time multiplayer arena battler.
 
-- 🌱 I’m currently learning **Java**
+## Skills
 
-- 💬 Ask me about **Java**
+Java, Python, pandas, SQL, R, GitHub Actions, Google Sheets, web scraping, data cleaning and reconciliation.
 
-- 📫 How to reach me **dgalagha@gmail.com**
+## Currently
 
-- ⚡ Fun fact **I love Dancing**
+- Data Science major, Metropolitan State University, expected May 2028
+- Building Apex in Nigeria, with an on-the-ground Operations Manager in Port Harcourt
+- Summer 2027 internship search: data and analytics roles in the Twin Cities
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriel alagha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel alagha" height="30" width="40" /></a>
-<a href="https://instagram.com/gabriel.alagha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel.alagha" height="30" width="40" /></a>
-</p>
+## Connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- GitHub: Galagha01
+- Instagram: @gabriel.alagha
+- Apex company email: apexdataoperationsltd@gmail.com
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/galagha01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/galagha01" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galagha01&show_icons=true&locale=en&layout=compact" alt="galagha01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galagha01&show_icons=true&locale=en" alt="galagha01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galagha01&" alt="galagha01" /></p>
